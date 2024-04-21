@@ -13,4 +13,9 @@
     <a href="https://github.com/smikhalevski/racehorse#readme"><img width="394" src="./images/racehorse.png" alt="Racehorse" /></a>
     <a href="https://github.com/smikhalevski/react-hookers#readme"><img width="394" src="./images/react-hookers.png" alt="React Hookers" /></a>
     <a href="https://github.com/smikhalevski/argcat#readme"><img width="394" src="./images/argcat.png" alt="argcat" /></a>
+    <a href="https://github.com/smikhalevski/jointly#readme"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/jointly-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" />
+      <img width="394" src="./images/jointly-light.png" alt="Jointly" />
+    </picture></a>
 </p>
