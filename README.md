@@ -23,4 +23,9 @@
       <source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" />
       <img width="394" src="./images/jointly-light.png" alt="Jointly" />
     </picture></a>
+    <a href="https://github.com/smikhalevski/react-corsair#readme"><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/react-corsair-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./images/react-corsair-light.png" />
+      <img width="394" src="./images/react-corsair-light.png" alt="React Corsair" />
+    </picture></a>
 </p>
