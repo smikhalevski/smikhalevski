@@ -1,10 +1,14 @@
 <p align="center">
+    <a href="https://github.com/smikhalevski/foxhole#readme" title="Private forward proxy in a couple of clicks."><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/foxhole-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./images/foxhole-light.png" />
+      <img width="394" src="./images/foxhole-light.png" alt="Foxhole" />
+    </picture></a>
     <a href="https://github.com/smikhalevski/react-corsair#readme" title="Because routes are better then URLs."><picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/react-corsair-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="./images/react-corsair-light.png" />
       <img width="394" src="./images/react-corsair-light.png" alt="React Corsair" />
     </picture></a>
-    <br>
     <a href="https://github.com/smikhalevski/roqueform#readme" title="The form state management library that can handle hundreds of fields without breaking a sweat."><img width="394" src="./images/roqueform.png" alt="Roqueform" /></a>
     <a href="https://github.com/smikhalevski/doubter#readme" title="Runtime validation and transformation library."><picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/doubter-dark.png" />
