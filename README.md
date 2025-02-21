@@ -6,12 +6,17 @@
     </picture></a>
     <a href="https://github.com/smikhalevski/react-hookers#readme" title="General-purpose React hooks with blackjack and hookers."><img width="394" src="./images/react-hookers.png" alt="React Hookers" /></a>
     <a href="https://github.com/smikhalevski/racehorse#readme" title="The bootstrapper for WebView-based Android apps."><img width="394" src="./images/racehorse.png" alt="Racehorse" /></a>
+    <a href="https://github.com/smikhalevski/roqueform#readme" title="The form state management library that can handle hundreds of fields without breaking a sweat."><img width="394" src="./images/roqueform.png" alt="Roqueform" /></a>
     <a href="https://github.com/smikhalevski/react-corsair#readme" title="Because routes are better then URLs."><picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/react-corsair-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="./images/react-corsair-light.png" />
       <img width="394" src="./images/react-corsair-light.png" alt="React Corsair" />
     </picture></a>
-    <a href="https://github.com/smikhalevski/roqueform#readme" title="The form state management library that can handle hundreds of fields without breaking a sweat."><img width="394" src="./images/roqueform.png" alt="Roqueform" /></a>
+    <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/json-marshal-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./images/json-marshal-light.png" />
+      <img width="394" src="./images/json-marshal-light.png" alt="JSON Marshal" />
+    </picture></a>
     <a href="https://github.com/smikhalevski/doubter#readme" title="Runtime validation and transformation library."><picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/doubter-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="./images/doubter-light.png" />
