@@ -23,6 +23,11 @@
       <img width="394" src="./images/doubter-light.png" alt="Doubter" />
     </picture></a>
     <a href="https://github.com/smikhalevski/paint-bucket#readme" title="Highly performant, extensible, and tiny color manipulation library."><img width="394" src="./images/paint-bucket.png" alt="Paint Bucket" /></a>
+    <a href="https://github.com/smikhalevski/flyweight-dom#readme" title="The extremely fast DOM implementation in just 4 kB gzipped."><picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/flyweight-dom-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="./images/flyweight-dom-light.png" />
+      <img width="394" src="./images/flyweight-dom-light.png" alt="Flyweight DOM" />
+    </picture></a>
     <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
     <a href="https://github.com/smikhalevski/pipit#readme" title="The universal logger with the pluggable architecture."><img width="394" src="./images/pipit.png" alt="Pipit" /></a>
     <a href="https://github.com/smikhalevski/argcat#readme" title="The simplest CLI arguments parser."><img width="394" src="./images/argcat.png" alt="argcat" /></a>
