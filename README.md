@@ -14,7 +14,11 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/doubter-light.png" />
     <img width="394" src="./images/doubter-light.png" alt="Doubter" />
   </picture></a>
-  <a href="https://github.com/smikhalevski/roqueform#readme" title="The form state management library that can handle hundreds of fields without breaking a sweat."><img width="394" src="./images/roqueform.png" alt="Roqueform" /></a>
+  <a href="https://github.com/smikhalevski/roqueform#readme" title="The form state management library that can handle hundreds of fields without breaking a sweat."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/roqueform-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/roqueform-light.png" />
+    <img width="394" src="./images/roqueform-light.png" alt="Roqueform" />
+  </picture></a>
   <a href="https://github.com/smikhalevski/react-hookers#readme" title="General-purpose React hooks with blackjack and hookers."><img width="394" src="./images/react-hookers.png" alt="React Hookers" /></a>
   <a href="https://github.com/smikhalevski/racehorse#readme" title="The bootstrapper for WebView-based Android apps."><img width="394" src="./images/racehorse.png" alt="Racehorse" /></a>
   <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
