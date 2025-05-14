@@ -45,4 +45,9 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/foxhole-light.png" />
     <img width="394" src="./images/foxhole-light.png" alt="Foxhole" />
   </picture></a>
+  <a href="https://github.com/smikhalevski/toofast#readme" title="The Node.js performance testing tool with unit-test-like API."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/toofast-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/toofast-light.png" />
+    <img width="394" src="./images/toofast-light.png" alt="React Executor" />
+  </picture></a>
 </p>
