@@ -20,26 +20,32 @@
     <img width="394" src="./images/roqueform-light.png" alt="Roqueform" />
   </picture></a>
   <a href="https://github.com/smikhalevski/react-hookers#readme" title="General-purpose React hooks with blackjack and hookers."><img width="394" src="./images/react-hookers.png" alt="React Hookers" /></a>
-  <a href="https://github.com/smikhalevski/racehorse#readme" title="The bootstrapper for WebView-based Android apps."><img width="394" src="./images/racehorse.png" alt="Racehorse" /></a>
-  <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/json-marshal-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/json-marshal-light.png" />
-    <img width="394" src="./images/json-marshal-light.png" alt="JSON Marshal" />
+  <a href="https://github.com/smikhalevski/racehorse#readme" title="The bootstrapper for WebView-based Android apps."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/racehorse-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/racehorse-light.png" />
+    <img width="394" src="./images/racehorse-light.png" alt="Racehorse" />
   </picture></a>
-  <a href="https://github.com/smikhalevski/paint-bucket#readme" title="Highly performant, extensible, and tiny color manipulation library."><img width="394" src="./images/paint-bucket.png" alt="Paint Bucket" /></a>
   <a href="https://github.com/smikhalevski/flyweight-dom#readme" title="The extremely fast DOM implementation in just 4 kB gzipped."><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/flyweight-dom-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./images/flyweight-dom-light.png" />
     <img width="394" src="./images/flyweight-dom-light.png" alt="Flyweight DOM" />
   </picture></a>
-  <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
-  <a href="https://github.com/smikhalevski/pipit#readme" title="The universal logger with the pluggable architecture."><img width="394" src="./images/pipit.png" alt="Pipit" /></a>
-  <a href="https://github.com/smikhalevski/argcat#readme" title="The simplest CLI arguments parser."><img width="394" src="./images/argcat.png" alt="argcat" /></a>
+  <a href="https://github.com/smikhalevski/paint-bucket#readme" title="Highly performant, extensible, and tiny color manipulation library."><img width="394" src="./images/paint-bucket.png" alt="Paint Bucket" /></a>
   <a href="https://github.com/smikhalevski/jointly#readme" title="Run multiple processes from a single terminal."><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/jointly-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" />
     <img width="394" src="./images/jointly-light.png" alt="Jointly" />
   </picture></a>
+
+<!--
+  <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/json-marshal-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/json-marshal-light.png" />
+    <img width="394" src="./images/json-marshal-light.png" alt="JSON Marshal" />
+  </picture></a>
+  <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
+  <a href="https://github.com/smikhalevski/pipit#readme" title="The universal logger with the pluggable architecture."><img width="394" src="./images/pipit.png" alt="Pipit" /></a>
+  <a href="https://github.com/smikhalevski/argcat#readme" title="The simplest CLI arguments parser."><img width="394" src="./images/argcat.png" alt="argcat" /></a>
   <a href="https://github.com/smikhalevski/foxhole#readme" title="Private forward proxy in a couple of clicks."><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/foxhole-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./images/foxhole-light.png" />
@@ -50,4 +56,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/toofast-light.png" />
     <img width="394" src="./images/toofast-light.png" alt="React Executor" />
   </picture></a>
+-->
+
 </p>
