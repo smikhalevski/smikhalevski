@@ -20,6 +20,11 @@
     <img width="394" src="./images/roqueform-light.png" alt="Roqueform" />
   </picture></a>
   <a href="https://github.com/smikhalevski/react-hookers#readme" title="General-purpose React hooks with blackjack and hookers."><img width="394" src="./images/react-hookers.png" alt="React Hookers" /></a>
+  <a href="https://github.com/smikhalevski/mfml#readme" title="The ICU MessageFormat + XML/HTML compiler and runtime that makes your translations tree-shakeable."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/mfml-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/mfml-light.png" />
+    <img width="394" src="./images/mfml-light.png" alt="MFML" />
+  </picture></a>
   <a href="https://github.com/smikhalevski/racehorse#readme" title="The bootstrapper for WebView-based Android apps."><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/racehorse-dark.png" />
     <source media="(prefers-color-scheme: light)" srcset="./images/racehorse-light.png" />
