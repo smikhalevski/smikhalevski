@@ -41,6 +41,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" />
     <img width="394" src="./images/jointly-light.png" alt="Jointly" />
   </picture></a>
+  <a href="https://github.com/smikhalevski/tag-soup#readme" title="TagSoup is the fastest pure JS SAX/DOM XML/HTML parser."><img width="394" src="./images/tag-soup.png" alt="TagSoup" /></a>
 
 <!--
   <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
@@ -64,3 +65,5 @@
 -->
 
 </p>
+
+<br/>
