@@ -1,3 +1,15 @@
+<br>
+
+<p align="center">
+  <a href="https://megastack.dev" title="Megastack is a web frontend bootstrapper that provides tools for routing, data fetching, task execution, form state management, validation, localization and internationalization out-of-the-box."><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/megastack-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./images/megastack-light.png" />
+    <img width="394" src="./images/megastack-light.png" alt="Megastack" />
+  </picture></a>
+</p>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/smikhalevski/react-executor#readme" title="Asynchronous task execution and state management for React."><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/react-executor-dark.png" />
