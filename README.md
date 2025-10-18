@@ -54,13 +54,9 @@
     <img width="394" src="./images/jointly-light.png" alt="Jointly" />
   </picture></a>
   <a href="https://github.com/smikhalevski/tag-soup#readme" title="TagSoup is the fastest pure JS SAX/DOM XML/HTML parser."><img width="394" src="./images/tag-soup.png" alt="TagSoup" /></a>
+  <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><img width="394" src="./images/json-marshal.png" alt="JSON Marshal" /></a>
 
 <!--
-  <a href="https://github.com/smikhalevski/json-marshal#readme" title="JSON serializer that can stringify and parse any data type."><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/json-marshal-dark.png" />
-    <source media="(prefers-color-scheme: light)" srcset="./images/json-marshal-light.png" />
-    <img width="394" src="./images/json-marshal-light.png" alt="JSON Marshal" />
-  </picture></a>
   <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
   <a href="https://github.com/smikhalevski/pipit#readme" title="The universal logger with the pluggable architecture."><img width="394" src="./images/pipit.png" alt="Pipit" /></a>
   <a href="https://github.com/smikhalevski/argcat#readme" title="The simplest CLI arguments parser."><img width="394" src="./images/argcat.png" alt="argcat" /></a>
