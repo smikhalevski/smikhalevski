@@ -19,6 +19,7 @@
   <a href="https://github.com/smikhalevski/paint-bucket#readme" title="Highly performant, extensible, and tiny color manipulation library."><img width="394" src="./images/paint-bucket.png" alt="Paint Bucket" /></a>
   <a href="https://github.com/smikhalevski/jointly#readme" title="Run multiple processes from a single terminal."><picture><source media="(prefers-color-scheme: dark)" srcset="./images/jointly-dark.png" /><source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" /><img width="394" src="./images/jointly-light.png" alt="Jointly" /></picture></a>
   <a href="https://github.com/smikhalevski/tag-soup#readme" title="TagSoup is the fastest pure JS SAX/DOM XML/HTML parser."><img width="394" src="./images/tag-soup.png" alt="TagSoup" /></a>
+  <a href="https://github.com/smikhalevski/whoopie#readme" title="Super-fast cookie parser and storage that works on both server and client."><img width="394" src="./images/whoopie.png" alt="Whoopie" /></a>
 
 <!--
   <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
