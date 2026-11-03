@@ -20,14 +20,7 @@
   <a href="https://github.com/smikhalevski/jointly#readme" title="Run multiple processes from a single terminal."><picture><source media="(prefers-color-scheme: dark)" srcset="./images/jointly-dark.png" /><source media="(prefers-color-scheme: light)" srcset="./images/jointly-light.png" /><img width="394" src="./images/jointly-light.png" alt="Jointly" /></picture></a>
   <a href="https://github.com/smikhalevski/tag-soup#readme" title="TagSoup is the fastest pure JS SAX/DOM XML/HTML parser."><img width="394" src="./images/tag-soup.png" alt="TagSoup" /></a>
   <a href="https://github.com/smikhalevski/whoopie#readme" title="Super-fast cookie parser and storage that works on both server and client."><img width="394" src="./images/whoopie.png" alt="Whoopie" /></a>
-
-<!--
-  <a href="https://github.com/smikhalevski/parallel-universe#readme" title="The set of async flow control structures and promise utils."><img width="394" src="./images/parallel-universe.png" alt="parallel-universe" /></a>
-  <a href="https://github.com/smikhalevski/pipit#readme" title="The universal logger with the pluggable architecture."><img width="394" src="./images/pipit.png" alt="Pipit" /></a>
-  <a href="https://github.com/smikhalevski/argcat#readme" title="The simplest CLI arguments parser."><img width="394" src="./images/argcat.png" alt="argcat" /></a>
-  <a href="https://github.com/smikhalevski/foxhole#readme" title="Private forward proxy in a couple of clicks."><picture><source media="(prefers-color-scheme: dark)" srcset="./images/foxhole-dark.png" /><source media="(prefers-color-scheme: light)" srcset="./images/foxhole-light.png" /><img width="394" src="./images/foxhole-light.png" alt="Foxhole" /></picture></a>
-  <a href="https://github.com/smikhalevski/toofast#readme" title="The Node.js performance testing tool with unit-test-like API."><picture><source media="(prefers-color-scheme: dark)" srcset="./images/toofast-dark.png" /><source media="(prefers-color-scheme: light)" srcset="./images/toofast-light.png" /><img width="394" src="./images/toofast-light.png" alt="React Executor" /></picture></a>
--->
+  <a href="https://github.com/smikhalevski/toofast#readme" title="The Node.js performance testing tool with unit-test-like API."><img width="394" src="./images/toofast.png" alt="TooFast" /></a>
 
 </p>
 
