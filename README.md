@@ -21,6 +21,7 @@
   <a href="https://github.com/smikhalevski/tag-soup#readme" title="TagSoup is the fastest pure JS SAX/DOM XML/HTML parser."><img width="394" src="./images/tag-soup.png" alt="TagSoup" /></a>
   <a href="https://github.com/smikhalevski/whoopie#readme" title="Super-fast cookie parser and storage that works on both server and client."><img width="394" src="./images/whoopie.png" alt="Whoopie" /></a>
   <a href="https://github.com/smikhalevski/toofast#readme" title="The Node.js performance testing tool with unit-test-like API."><img width="394" src="./images/toofast.png" alt="TooFast" /></a>
+  <a href="https://github.com/smikhalevski/speedy-entities#readme" title="The fastest XML/HTML entity encoder/decoder."><img width="394" src="./images/speedy-entities.png" alt="Speedy Entities" /></a>
 
 </p>
 
